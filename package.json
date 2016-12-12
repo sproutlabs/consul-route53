@@ -1,0 +1,22 @@
+{
+  "name": "consul-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "subscribe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "git+ssh://git@gitlab.com/marketing-platform/consul-server.git",
+    "type": "git"
+  },
+  "author": "Zac Petterd <zpetterd@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/marketing-platform/consul-server/issues"
+  },
+  "homepage": "https://gitlab.com/marketing-platform/consul-server#README",
+  "dependencies": {
+    "aws-sdk": "^2.7.13"
+  }
+}
